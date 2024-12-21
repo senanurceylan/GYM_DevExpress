@@ -1,2 +1,2 @@
 # GYM_DevExpress
-Dönem projesi olan Gym projemin tüm süreçlerini içerir
+Dönem projem olan Gym otomasyonumun tüm süreçlerini içerir
